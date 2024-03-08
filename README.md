@@ -1,8 +1,8 @@
-# Real MySQL 뿌시기
+# Real MySQL 8.0 뿌시기
 
 > 🪴 Real MySQL 8.0 교재를 활용한 데이터베이스 스터디
 > 
-> 2024.01.05 ~ 2024.03.15 (11주 예정)
+> 2024.01.05 ~ 2024.04.05 (13주 예정)
 
 스터디 진행 현황은 [노션](https://lacy-pirate-0e4.notion.site/Real-MySQL-4c68877d2ded42918bb8f6d0d684a0de?pvs=4)에서 확인
 
@@ -17,7 +17,7 @@
 
 ### 시간/장소
 
-- 주 1회 `금요일 오전 10시`
+- 주 1회 `금요일 오전 9시`
 - `디스코드` 온라인 미팅
 
 ### 멤버
@@ -41,6 +41,46 @@
 > Real MySQL 8.0 1권 & 2권
 > 
 
-[Real MySQL 8.0 (1권)](https://product.kyobobook.co.kr/detail/S000001766482)
 
-[Real MySQL 8.0 (2권)](https://product.kyobobook.co.kr/detail/S000001766483)
+## 스터디 로그
+
+### 1주차 - MySQL 서버 아키텍처
+- [MySQL 설정 파일과 시스템 변수](https://babyshark.tistory.com/20)
+- [MVCC](https://coji.tistory.com/148)
+- [InnoDB 버퍼풀 LRU 리스트](https://duddn.tistory.com/18)
+
+### 2주차 - 트랜잭션, 데이터 압축, 데이터 암호화
+- [MySQL 암호화 알고리즘](https://coji.tistory.com/149)
+- [InnoDB 인덱스 잠금 테스트](https://babyshark.tistory.com/21)
+- [잠금(LOCK)과 MVCC로 보는 InnoDB의 격리수준](https://duddn.tistory.com/19)
+
+### 3주차 - 인덱스
+- [MySQL에 대용량 데이터를 삽입해 인덱스를 사용해보기](https://duddn.tistory.com/20)
+- [B-Tree](https://coji.tistory.com/150)
+- [프라이머리 키가 일반 인덱스보다 특별한 이유 - InnoDB 클러스터링 인덱스](https://babyshark.tistory.com/22)
+
+### 4주차 - 옵티마이저와 힌트
+- [옵티마이저의 선택은? 네스티드 루프 조인 vs. 해시 조인](https://babyshark.tistory.com/25)
+- [EXPLAIN 명령어란 뭘까..](https://duddn.tistory.com/21)
+- [리드 어헤드](https://coji.tistory.com/151)
+
+### 5주차, 6주차 - 실행 계획
+- [히스토그램 알아보기](https://coji.tistory.com/154)
+- [실행 계획 확인하는 명령어](https://babyshark.tistory.com/27)
+- [서브쿼리란 뭘까..](https://duddn.tistory.com/22)
+- [클러스터링 인덱스의 사실과 오해](https://duddn.tistory.com/23)
+- [실행 계획 - partitions 칼럼](https://coji.tistory.com/155)
+- [커버링 인덱스](https://babyshark.tistory.com/28)
+
+### 7주차, 8주차 - 쿼리 작성 및 최적화
+- [지연된 조인(Delayed Join)](https://babyshark.tistory.com/29)
+- [SELECT문의 실행순서를 알아보자](https://duddn.tistory.com/24)
+- [REGEXP, LIKE 연산자](https://coji.tistory.com/156)
+- [Direct I/O란?](https://coji.tistory.com/157#article-4--ref)
+- [온라인 DDL](https://babyshark.tistory.com/30)
+- [CTE란 무엇인가요?](https://duddn.tistory.com/25)
+
+### 9주차 - 확장검색, 파티션
+- [MySQL Full-Text Search](https://duddn.tistory.com/26)
+- [파티셔닝 정리](https://coji.tistory.com/159)
+- [MySQL 파티셔닝 종류 정리 - RANGE, LIST, HASH, KEY](https://babyshark.tistory.com/31)
