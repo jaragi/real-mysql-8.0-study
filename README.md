@@ -84,3 +84,8 @@
 - [MySQL Full-Text Search](https://duddn.tistory.com/26)
 - [파티셔닝 정리](https://coji.tistory.com/159)
 - [MySQL 파티셔닝 종류 정리 - RANGE, LIST, HASH, KEY](https://babyshark.tistory.com/31)
+
+### 10주차 - 스토어드 프로그램, 데이터 타입
+- [커서란?](https://coji.tistory.com/162)
+- [데이터 베이스에 완전한 한글 문자만 저장하는 방법이 있을까?(’ㅇ’, ‘ㅏ’ 같은 문자는 저장하기 싫음!)](https://duddn.tistory.com/27)
+- [DATETIME vs. TIMESTAMP](https://babyshark.tistory.com/32)
