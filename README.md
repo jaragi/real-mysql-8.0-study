@@ -2,9 +2,11 @@
 
 > 🪴 Real MySQL 8.0 교재를 활용한 데이터베이스 스터디
 > 
-> 2024.01.05 ~ 2024.04.05 (13주 예정)
+> 2024.01.05 ~ 2024.04.05 (13주 완료)
 
-스터디 진행 현황은 [노션](https://lacy-pirate-0e4.notion.site/Real-MySQL-4c68877d2ded42918bb8f6d0d684a0de?pvs=4)에서 확인
+## 스터디 기록
+- [Notion 페이지](https://lacy-pirate-0e4.notion.site/Real-MySQL-4c68877d2ded42918bb8f6d0d684a0de?pvs=4)
+- [스터디 회고](https://lacy-pirate-0e4.notion.site/c9f1fa0e2313412d85b59180a84a79a5)
 
 ## 스터디 소개
 
@@ -89,3 +91,16 @@
 - [커서란?](https://coji.tistory.com/162)
 - [데이터 베이스에 완전한 한글 문자만 저장하는 방법이 있을까?(’ㅇ’, ‘ㅏ’ 같은 문자는 저장하기 싫음!)](https://duddn.tistory.com/27)
 - [DATETIME vs. TIMESTAMP](https://babyshark.tistory.com/32)
+
+### 11주차 - 복제
+- [데이터베이스 확장 방식 - Clustering vs Replication](https://coji.tistory.com/165)
+- [데이터베이스 복제(Replication)](https://babyshark.tistory.com/33)
+- [DB replication은 언제 사용할까요?](https://duddn.tistory.com/29)
+
+### 12주차 - InnoDB 클러스터
+- [InnoDB 클러스터](https://babyshark.tistory.com/34)
+- [이중화](https://duddn.tistory.com/31)
+
+### 13주차 - Performance 스키마 & Sys 스키마
+- [쿼리 성능 확인하기 - Performance 스키마 & Sys 스키마](https://babyshark.tistory.com/35)
+- [MySQL 성능 모니터링](https://coji.tistory.com/166)
